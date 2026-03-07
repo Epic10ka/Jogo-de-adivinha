@@ -7,7 +7,6 @@ while True:
     player = -1
     contagem = 0
     print()
-    print(pc)
     while player != pc:
         player = int(input('          Adivinhe o número: '))
         print('——'*20)
