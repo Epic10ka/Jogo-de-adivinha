@@ -3,6 +3,7 @@ while True:
     print('——'*20)
     print('\033[1;35mJOGO DE ADIVINHAÇÃO\033[m'.center(50))
     print('——'*20)
+    print('Você tem \033[1;34m10 TENTATIVAS!\033[m'.center(50))
     pc = randint(0, 10)
     player = -1
     contagem = 0
@@ -16,8 +17,11 @@ while True:
             print()
         else:
             print(f'\033[1;92mParabéns!\033[m Você acertou! O número era {pc}')
+            print(f'Você precisou de \033[1;33m{contagem}\033[m palpites para acertar.')
+        if contagem > 10:
+            print('\033[1;33mAcabaram suas tentativas\033[m'.center(50))
+            break
     print('——'*20)
-    print(f'Você precisou de \033[1;33m{contagem}\033[m palpites para acertar.')
     print('——'*20)
     print()#Aparência da interface
     print()#Aparência da interface
