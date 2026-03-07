@@ -27,4 +27,4 @@
   
   -Acesse a pasta do projeto
   
-  -Rode o arquivo "jogo_adivinha.py" e jogue livrimente.
+  -Rode o arquivo "jogo_adivinha.py" e jogue livremente.
