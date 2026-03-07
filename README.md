@@ -16,11 +16,11 @@
   -Estruturas básicas da linguagem
 
     FUNCIONALIDADES:
-  —O computador escolhe um número aleatório de 0 a 10.
+  — O computador escolhe um número aleatório de 0 a 10.
   
-  —O jogador deve adivinhar esse número antes de atingir 10 tentativas.
+  — O jogador deve adivinhar esse número antes de atingir 10 tentativas.
   
-  -Quando o jogo acabar, o jogador em a opção de sair do jogo ou continuar jogando.
+  — Quando o jogo acabar, o jogador em a opção de sair do jogo ou continuar jogando.
 
      COMO EXECUTAR O PROJETO:
   -Clone este repositório: https://github.com/Epic10ka/Jogo-de-adivinha
