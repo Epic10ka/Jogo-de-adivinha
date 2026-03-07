@@ -1,5 +1,6 @@
                               Jogo De Adivinhação
-    <img width="576" height="572" alt="image" src="https://github.com/user-attachments/assets/20386d0d-58b5-4f6f-8117-89bcec27f5dd" />
+  
+  <img width="576" height="572" alt="image" src="https://github.com/user-attachments/assets/20386d0d-58b5-4f6f-8117-89bcec27f5dd" />
 
     SOBRE:
   Fiz um pequeno jogo, para melhorar minhas práticas com loops no python. Divertido e muito útil para minha aprendizagem. 
