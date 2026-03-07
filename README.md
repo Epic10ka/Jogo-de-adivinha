@@ -1,21 +1,29 @@
-# Jogo De Adivinhação
-<img width="576" height="572" alt="image" src="https://github.com/user-attachments/assets/20386d0d-58b5-4f6f-8117-89bcec27f5dd" />
+                              Jogo De Adivinhação
+    <img width="576" height="572" alt="image" src="https://github.com/user-attachments/assets/20386d0d-58b5-4f6f-8117-89bcec27f5dd" />
 
     SOBRE:
-  Fiz um pequeno jogo, para melhorar minhas práticas com loops no python. Divertido e muito útil para minha aprendizagem.
+  Fiz um pequeno jogo, para melhorar minhas práticas com loops no python. Divertido e muito útil para minha aprendizagem. 
+  Me diverti fazendo e raciocinei bastante pra chegar ao código final que possibilitou o funcionamento correto do jogo.
   
     CONCEITOS APLICADOS:
   -Lógicas condicionantes
+  
   -Loops de while e for
+  
   -Acumulador
+  
   -Estruturas básicas da linguagem
 
     FUNCIONALIDADES:
   —O computador escolhe um número aleatório de 0 a 10.
+  
   —O jogador deve adivinhar esse número antes de atingir 10 tentativas.
+  
   -Quando o jogo acabar, o jogador em a opção de sair do jogo ou continuar jogando.
 
      COMO EXECUTAR O PROJETO:
   -Clone este repositório: https://github.com/Epic10ka/Jogo-de-adivinha
+  
   -Acesse a pasta do projeto
+  
   -Rode o arquivo "jogo_adivinha.py" e jogue livrimente.
