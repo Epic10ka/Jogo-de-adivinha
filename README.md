@@ -3,13 +3,13 @@
   <img width="576" height="572" alt="image" src="https://github.com/user-attachments/assets/20386d0d-58b5-4f6f-8117-89bcec27f5dd" />
 
     SOBRE:
-  Fiz um pequeno jogo, para melhorar minhas práticas com loops no python. Divertido e muito útil para minha aprendizagem. 
-  Me diverti fazendo e raciocinei bastante pra chegar ao código final que possibilitou o funcionamento correto do jogo.
+  Fiz um pequeno jogo, para melhorar minhas práticas com loops em python. Foi divertido de desenvolver e muito útil para o meu aprendizado.
+  Me diverti fazendo e raciocinei bastante para chegar ao código final que possibilitou o funcionamento correto do jogo.
   
     CONCEITOS APLICADOS:
-  -Lógicas condicionantes
+  -Lógicas condicionais
   
-  -Loops de while e for
+  -Loops `while` e `for`
   
   -Acumulador
   
@@ -27,4 +27,4 @@
   
   -Acesse a pasta do projeto
   
-  -Rode o arquivo jogo_adivinha.py e jogue livremente.
+  -Rode o arquivo `jogo_adivinha.py` e jogue livremente.
